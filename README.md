@@ -4,7 +4,7 @@ Project Title: Test Automation Task
 
 Prerequisites:
 a) pycharm
-b) Chrom executable driver file
+b) Chrome executable driver file
 c) Selenium
 d) Python
 
